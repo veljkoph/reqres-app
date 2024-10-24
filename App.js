@@ -8,7 +8,7 @@ import { store } from './store/store';
 
 export default function App() {
 
-  //Create user sam implementirao kroz REGISTER
+
 
   return (
     <SafeAreaProvider>
